@@ -1,0 +1,31 @@
+﻿'Chess With a Bigger Board.exe' (Win32): Loaded 'C:\Users\lsqua\source\repos\Chess With a Bigger Board\Debug\Chess With a Bigger Board.exe'. Symbols loaded.
+'Chess With a Bigger Board.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Chess With a Bigger Board.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Chess With a Bigger Board.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Chess With a Bigger Board.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Chess With a Bigger Board.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Chess With a Bigger Board.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x3514 has exited with code 0 (0x0).
+'Chess With a Bigger Board.exe' (Win32): Loaded 'C:\Program Files (x86)\Citrix\ICA Client\epclient32.dll'. 
+'Chess With a Bigger Board.exe' (Win32): Loaded 'C:\Windows\SysWOW64\user32.dll'. 
+'Chess With a Bigger Board.exe' (Win32): Loaded 'C:\Windows\SysWOW64\win32u.dll'. 
+'Chess With a Bigger Board.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32.dll'. 
+'Chess With a Bigger Board.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32full.dll'. 
+'Chess With a Bigger Board.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp_win.dll'. 
+'Chess With a Bigger Board.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbase.dll'. 
+'Chess With a Bigger Board.exe' (Win32): Loaded 'C:\Windows\SysWOW64\imm32.dll'. 
+'Chess With a Bigger Board.exe' (Win32): Loaded 'C:\Windows\SysWOW64\advapi32.dll'. 
+'Chess With a Bigger Board.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'Chess With a Bigger Board.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+'Chess With a Bigger Board.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'Chess With a Bigger Board.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'Chess With a Bigger Board.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'Chess With a Bigger Board.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'Chess With a Bigger Board.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntmarta.dll'. 
+'Chess With a Bigger Board.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcrypt.dll'. 
+The thread 0x508 has exited with code 0 (0x0).
+The thread 0x3cec has exited with code 0 (0x0).
+The thread 0x1930 has exited with code 0 (0x0).
+The thread 0x3a18 has exited with code -1073741510 (0xc000013a).
+The thread 0x3ce8 has exited with code -1073741510 (0xc000013a).
+The program '[8536] Chess With a Bigger Board.exe' has exited with code -1073741510 (0xc000013a).
